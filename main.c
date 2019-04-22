@@ -41,6 +41,31 @@ void main()
 		result=val1*val2;
 		printf("Multiplication = %d",result);
 	}
+	case 4:
+
+	{
+	
+		printf("Enter First value : ");
+	
+		scanf("%d",&val1);
+		
+		printf("Enter Second Value:");
+			
+		scanf("%d",& val2);
+		
+		result= val1/val2;
+		
+		printf("Division = %d" , result);
+
+	}
+	
+	case 5:
+
+	{
+	
+		exit(0);
+	
+	}
 	default:
 	{
 		printf("Invalid...!");

@@ -32,6 +32,15 @@ void main()
 		result=val1-val2;
 		printf("subtraction =%d",result);
 	}
+        case 3:
+	{
+		printf("Enter First Value :");
+		scanf("%d",&val1);
+		printf("Enter Second Value:");
+		scanf("%d",&val2);
+		result=val1*val2;
+		printf("Multiplication = %d",result);
+	}
 	default:
 	{
 		printf("Invalid...!");

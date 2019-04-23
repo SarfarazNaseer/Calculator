@@ -69,9 +69,9 @@ void main()
 	default:
 	{
 		printf("Invalid...!");
-	}
+	
 
-	}
+	
 
 	getch();
 }

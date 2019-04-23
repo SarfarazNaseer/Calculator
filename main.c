@@ -71,7 +71,8 @@ void main()
 		printf("Invalid...!");
 	
 
-	
+	}
+        }
 
 	getch();
 }

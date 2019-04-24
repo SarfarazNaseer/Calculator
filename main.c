@@ -15,7 +15,7 @@ void main()
 	switch (choice){
 
 	case 1:
-	{
+	{  
 		printf("Enter first value:");
 		scanf("%d",&val1);
 		printf("Enter second value:");

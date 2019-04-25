@@ -21,7 +21,7 @@ void main()
 		printf("Enter second value:");
 		scanf("%d",&val2);
 		result=val1+val2;
-		printf("Addition = %d",result);
+		printf("Addition =%d",result);
 	}
 	case 2:
 	{
@@ -30,7 +30,7 @@ void main()
 		printf("enter second value:");
 		scanf("%d",&val2);
 		result=val1-val2;
-		printf("subtraction =%d",result);
+		printf("subtraction=%d",result);
 	}
         case 3:
 	{
@@ -39,7 +39,7 @@ void main()
 		printf("Enter Second Value:");
 		scanf("%d",&val2);
 		result=val1*val2;
-		printf("Multiplication = %d",result);
+		printf("Multiplication =%d",result);
 	}
 	case 4:
 
